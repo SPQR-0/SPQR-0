@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SPQR-0](https://github.com/SPQR-0)
 
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
+- 📝 I regularly write articles on Coming Soon...
 
 - 💬 Ask me about **Python, Dj, C++**
 
 - 📫 How to reach me **biomedical.tch.39@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📄 Know about my experiences Soon...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
