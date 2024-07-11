@@ -36,7 +36,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spqr-0&show_icons=true&locale=en&layout=compact" alt="spqr-0" /></p><br><br>
 <br><br>
 <br>
-<img align='right' alt='SPQR' width='400' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/552f19131959357.61a053689ea3f.gif'>
+<img align='right' alt='SPQR' width='400' src='https://github.com/SPQR-0/SPQR-0/blob/main/brain-ready.gif'>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spqr-0&show_icons=true&locale=en" alt="spqr-0" /></p>
 
