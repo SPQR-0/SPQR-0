@@ -33,9 +33,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/SPQR_0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/SPQR_0" /></a></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spqr-0&show_icons=true&locale=en&layout=compact" alt="spqr-0" /></p><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spqr-0&show_icons=true&locale=en&layout=compact" alt="spqr-0" /></p><br><br>
 <br><be>
-<br><br>
+
 <img align='right' alt='SPQR' width='300' src='https://github.com/SPQR-0/SPQR-0/blob/main/brain-ready.gif'>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spqr-0&show_icons=true&locale=en" alt="spqr-0" /></p>
