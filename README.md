@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spqr-0&label=Profile%20views&color=0e75b6&style=flat" alt="spqr-0" /> </p>
 
-- 🔭 I’m currently working on [Biomedical Engineering Projetcs](https://github.com/SPQR-0)
+- 🔭 I’m currently working on [Machine Learning Projetcs](https://github.com/SPQR-0)
 
 - 🌱 I’m currently learning **ML,DL,Database...**
 
-- 👯 I’m looking to collaborate on **Image Processing Projects**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SPQR-0](https://github.com/SPQR-0)
 
